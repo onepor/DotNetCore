@@ -1,0 +1,8 @@
+E:\代码\Project\DotNetCore\DotNetCore\Model\bin\Debug\netcoreapp3.1\Model.deps.json
+E:\代码\Project\DotNetCore\DotNetCore\Model\bin\Debug\netcoreapp3.1\Model.dll
+E:\代码\Project\DotNetCore\DotNetCore\Model\bin\Debug\netcoreapp3.1\Model.pdb
+E:\代码\Project\DotNetCore\DotNetCore\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfoInputs.cache
+E:\代码\Project\DotNetCore\DotNetCore\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfo.cs
+E:\代码\Project\DotNetCore\DotNetCore\Model\obj\Debug\netcoreapp3.1\Model.csproj.CoreCompileInputs.cache
+E:\代码\Project\DotNetCore\DotNetCore\Model\obj\Debug\netcoreapp3.1\Model.dll
+E:\代码\Project\DotNetCore\DotNetCore\Model\obj\Debug\netcoreapp3.1\Model.pdb

@@ -1,0 +1,9 @@
+E:\代码\Project\DotNetCore\DotNetCore\Repository\bin\Debug\netcoreapp3.1\Repository.deps.json
+E:\代码\Project\DotNetCore\DotNetCore\Repository\bin\Debug\netcoreapp3.1\Repository.dll
+E:\代码\Project\DotNetCore\DotNetCore\Repository\bin\Debug\netcoreapp3.1\Repository.pdb
+E:\代码\Project\DotNetCore\DotNetCore\Repository\obj\Debug\netcoreapp3.1\Repository.csprojAssemblyReference.cache
+E:\代码\Project\DotNetCore\DotNetCore\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfoInputs.cache
+E:\代码\Project\DotNetCore\DotNetCore\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfo.cs
+E:\代码\Project\DotNetCore\DotNetCore\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CoreCompileInputs.cache
+E:\代码\Project\DotNetCore\DotNetCore\Repository\obj\Debug\netcoreapp3.1\Repository.dll
+E:\代码\Project\DotNetCore\DotNetCore\Repository\obj\Debug\netcoreapp3.1\Repository.pdb

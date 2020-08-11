@@ -32,7 +32,6 @@ E:\代码\Project\DotNetCore\DotNetCore\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.ru
 E:\代码\Project\DotNetCore\DotNetCore\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.dev.json
 E:\代码\Project\DotNetCore\DotNetCore\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.dll
 E:\代码\Project\DotNetCore\DotNetCore\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.pdb
-E:\代码\Project\DotNetCore\DotNetCore\WebAPI\bin\Debug\netcoreapp3.1\LanguageExt.Core.dll
 E:\代码\Project\DotNetCore\DotNetCore\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
 E:\代码\Project\DotNetCore\DotNetCore\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
 E:\代码\Project\DotNetCore\DotNetCore\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
