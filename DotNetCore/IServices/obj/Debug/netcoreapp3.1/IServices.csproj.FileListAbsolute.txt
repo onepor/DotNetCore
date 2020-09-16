@@ -6,3 +6,7 @@ E:\代码\Project\DotNetCore\DotNetCore\IServices\obj\Debug\netcoreapp3.1\IServi
 E:\代码\Project\DotNetCore\DotNetCore\IServices\obj\Debug\netcoreapp3.1\IServices.AssemblyInfo.cs
 E:\代码\Project\DotNetCore\DotNetCore\IServices\obj\Debug\netcoreapp3.1\IServices.dll
 E:\代码\Project\DotNetCore\DotNetCore\IServices\obj\Debug\netcoreapp3.1\IServices.pdb
+E:\代码\Project\DotNetCore\DotNetCore\IServices\bin\Debug\netcoreapp3.1\Model.dll
+E:\代码\Project\DotNetCore\DotNetCore\IServices\bin\Debug\netcoreapp3.1\Model.pdb
+E:\代码\Project\DotNetCore\DotNetCore\IServices\obj\Debug\netcoreapp3.1\IServices.csproj.CoreCompileInputs.cache
+E:\代码\Project\DotNetCore\DotNetCore\IServices\obj\Debug\netcoreapp3.1\IServices.csproj.CopyComplete

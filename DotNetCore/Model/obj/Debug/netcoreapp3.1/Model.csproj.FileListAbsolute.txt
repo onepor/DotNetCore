@@ -6,3 +6,4 @@ E:\代码\Project\DotNetCore\DotNetCore\Model\obj\Debug\netcoreapp3.1\Model.Asse
 E:\代码\Project\DotNetCore\DotNetCore\Model\obj\Debug\netcoreapp3.1\Model.csproj.CoreCompileInputs.cache
 E:\代码\Project\DotNetCore\DotNetCore\Model\obj\Debug\netcoreapp3.1\Model.dll
 E:\代码\Project\DotNetCore\DotNetCore\Model\obj\Debug\netcoreapp3.1\Model.pdb
+E:\代码\Project\DotNetCore\DotNetCore\Model\obj\Debug\netcoreapp3.1\Model.csprojAssemblyReference.cache
